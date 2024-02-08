@@ -1,7 +1,7 @@
 # Data-Analysis-Project-Sales-Management
 
-• Conducted in-depth analysis of sales data using MICROSOFT SMSS through SQL, extracting valuable insights.
-• Generated comprehensive reports using POWER BI to meet specific business requirements, aiding decision-making processes.
+•Conducted in-depth analysis of sales data using MICROSOFT SMSS through SQL, extracting valuable insights.
+•Generated comprehensive reports using POWER BI to meet specific business requirements, aiding decision-making processes.
 
 # Objective:
 This project aims to provide comprehensive data analysis and visualization solutions for sales management. Leveraging SQL for data extraction and transformation and Power BI for visualization, the project offers insightful dashboards and reports tailored to the needs of sales managers and representatives.
